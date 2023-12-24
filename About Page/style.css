@@ -1,0 +1,13 @@
+.links{
+    display: flex;
+    margin: 5px;
+    justify-content: space-around;
+    margin-left: -180px;
+    margin-right: 320px;
+
+}
+
+img{
+    width: 70%;
+    border-radius: 10px;
+}
